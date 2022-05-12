@@ -4,26 +4,29 @@
 
 ### GWU Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Citibike Analysis](/sample_page)
+<img src="images/citibike.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Flights](/pdf/sample_presentation.pdf)
+<img src="images/philip-myrtorp-iiqpxCg2GD4-unsplash.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Toyota](http://example.com/)
+<img src="images/photo-1546545817-27f0fb006153.webp?raw=true"/>
+
+---
+[Farm Ads](http://example.com/)
+<img src="images/timothy-eberly-XemjjFd_4qE-unsplash.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Citibike Analysis](http://example.com/)
+- [Flights](http://example.com/)
+- [Toyota](http://example.com/)
+- [Farm Ads](http://example.com/)
 
 ---
 
