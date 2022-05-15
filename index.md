@@ -23,10 +23,12 @@
 
 ### GWU Group Projects
 
-- [Police Violence Analysis](/project/FoAI-TeamProject-group7-Report.pdf)
-- <img src="images/munshots-A3gXBmO0jaM-unsplash.jpg?raw=true"/>
-- [Insurance Charges Analysis](/project/IOT_Team_Project_Group_10_Report.pdf)
-- <img src="images/towfiqu-barbhuiya-jpqyfK7GB4w-unsplash.jpg?raw=true"/>
+[Police Violence Analysis](/project/FoAI-TeamProject-group7-Report.pdf)
+<img src="images/munshots-A3gXBmO0jaM-unsplash.jpg?raw=true"/>
+
+---
+[Insurance Charges Analysis](/project/IOT_Team_Project_Group_10_Report.pdf)
+<img src="images/towfiqu-barbhuiya-jpqyfK7GB4w-unsplash.jpg?raw=true"/>
 
 ---
 
