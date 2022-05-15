@@ -8,15 +8,15 @@
 <img src="images/citibike.png?raw=true"/>
 
 ---
-[Flights](/project/Flights Analysis.html)
+[Flights Analysis](/project/Flights Analysis.html)
 <img src="images/philip-myrtorp-iiqpxCg2GD4-unsplash.jpg?raw=true"/>
 
 ---
-[Toyota](/project/Toyota_Corolla_Analysis.html)
+[Toyota Price Analysis](/project/Toyota_Corolla_Analysis.html)
 <img src="images/photo-1546545817-27f0fb006153.webp?raw=true"/>
 
 ---
-[Farm Ads](/project/Farm Ads Analysis.html)
+[Farm Ads Analysis](/project/Farm Ads Analysis.html)
 <img src="images/timothy-eberly-XemjjFd_4qE-unsplash.jpg?raw=true"/>
 
 ---
