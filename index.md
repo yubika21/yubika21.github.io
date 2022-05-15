@@ -23,8 +23,8 @@
 
 ### GWU Group Projects
 
-- [Police Violence Analysis]
-- [Insurance Charges Analysis]
+- [Police Violence Analysis](/project/FoAI-TeamProject-group7-Report.pdf)
+- [Insurance Charges Analysis](/project/IOT_Team_Project_Group_10_Report.pdf)
 
 ---
 
