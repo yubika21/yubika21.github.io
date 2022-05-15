@@ -8,7 +8,7 @@
 <img src="images/citibike.png?raw=true"/>
 
 ---
-[Flights](/pdf/sample_presentation.pdf)
+[Flights](/project/Flights Analysis.html)
 <img src="images/philip-myrtorp-iiqpxCg2GD4-unsplash.jpg?raw=true"/>
 
 ---
