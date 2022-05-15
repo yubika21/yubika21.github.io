@@ -23,10 +23,7 @@
 
 ### GWU Group Projects
 
-- [Citibike Analysis](yubika21.github.io/Citibike_Analysis.html)
-- [Flights](http://example.com/)
-- [Toyota](http://example.com/)
-- [Farm Ads](http://example.com/)
+- [Police Violence Analysis](yubika21.github.io/Citibike_Analysis.html)
 
 ---
 
