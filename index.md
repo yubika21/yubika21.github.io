@@ -12,7 +12,7 @@
 <img src="images/philip-myrtorp-iiqpxCg2GD4-unsplash.jpg?raw=true"/>
 
 ---
-[Toyota](http://example.com/)
+[Toyota](/project/Toyota_Corolla_Analysis.html)
 <img src="images/photo-1546545817-27f0fb006153.webp?raw=true"/>
 
 ---
