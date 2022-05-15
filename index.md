@@ -23,7 +23,8 @@
 
 ### GWU Group Projects
 
-- [Police Violence Analysis](yubika21.github.io/)
+- [Police Violence Analysis]
+- [Insurance Charges Analysis]
 
 ---
 
