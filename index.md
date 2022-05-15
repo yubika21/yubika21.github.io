@@ -23,7 +23,7 @@
 
 ### GWU Group Projects
 
-- [Police Violence Analysis](yubika21.github.io/Citibike_Analysis.html)
+- [Police Violence Analysis](yubika21.github.io/)
 
 ---
 
