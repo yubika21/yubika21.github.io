@@ -21,7 +21,7 @@
 
 ---
 
-### Project Code Links
+### GWU Group Projects
 
 - [Citibike Analysis](yubika21.github.io/Citibike_Analysis.html)
 - [Flights](http://example.com/)
