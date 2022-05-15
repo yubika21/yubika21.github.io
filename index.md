@@ -4,7 +4,7 @@
 
 ### GWU Projects
 
-[Citibike Analysis](project/Citibike_Analysis.html)
+[Citibike Analysis](yubika21/yubika21.github.io/project/Citibike_Analysis.html)
 <img src="images/citibike.png?raw=true"/>
 
 ---
