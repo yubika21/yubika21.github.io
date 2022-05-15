@@ -16,7 +16,7 @@
 <img src="images/photo-1546545817-27f0fb006153.webp?raw=true"/>
 
 ---
-[Farm Ads](http://example.com/)
+[Farm Ads](/project/Farm Ads Analysis.html)
 <img src="images/timothy-eberly-XemjjFd_4qE-unsplash.jpg?raw=true"/>
 
 ---
